@@ -1,4 +1,8 @@
-# Semi1-HT1-202010055
+# Hoja de trabajo #1
+
+## Derek Esquivel - 202010055
+
+## Laboratorio Seminario de Sistemas I - Sección A
 
 API de reconocimiento de objetos en una imagen utilizando Amazon Rekogition
 
